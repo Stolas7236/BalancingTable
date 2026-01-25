@@ -1,5 +1,8 @@
 ---,Cost,KillBonus,BaseDamage,ArmourDamage,ArmourPenetration,HelmetDamage,HelmetBleed,Weight,FalloffModifier,MinFalloffDist,MaxFalloffDist
 
+mp7,2200,250,20,25,80,50,60,0,0.75,2000,3000
+mp7_tan,2200,250,20,25,80,50,60,0,0.75,2000,3000
+
 bayonet_fg42e,1500,0,100,100,100,100,100,0,1,500,4000
 fg42e,1500,100,32,60,100,100,100,0,1,500,4000
 hdm,1500,800,20,20,10,50,75,0,1,500,4000
@@ -182,6 +185,7 @@ gas,400,0,0,0,0,0,100,0,1,500,4000
 thompson_drum,1600,400,20,30,10,25,25,0,1,500,4000
 
 ppsh_drum,1750,100,17,20,10,25,25,0,0.8,1500,2500
+
 
 
 
