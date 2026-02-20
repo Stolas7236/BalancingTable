@@ -1,7 +1,7 @@
 ---,Cost,KillBonus,BaseDamage,ArmourDamage,ArmourPenetration,HelmetDamage,HelmetBleed,Weight,FalloffModifier,MinFalloffDist,MaxFalloffDist
 
 kam-arrowexplosive,20000,0,0,0,0,0,0,0,0,0,0
-kam-arrowexplosive-gun,20000,0,0,0,0,0,0,0,0,0,0
+kam-quiverexplosive,20000,0,0,0,0,0,0,0,0,0,0
 
 mnade_gp25,20000,0,0,0,0,0,0,0,0,0,0
 mnade_m203,20000,0,0,0,0,0,0,0,0,0,0
@@ -114,6 +114,7 @@ gas,400,0,0,0,0,0,100,0,1,500,4000
 thompson_drum,1600,400,20,30,10,25,25,0,1,500,4000
 
 ppsh_drum,1750,100,17,20,10,25,25,0,0.8,1500,2500
+
 
 
 
